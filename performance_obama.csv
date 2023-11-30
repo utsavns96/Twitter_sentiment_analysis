@@ -1,0 +1,11 @@
+Model,Vectorization,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,TF-IDF,0.5813,0.583,0.5813,0.582
+Logistic Regression,Word2Vec,0.48,0.4845,0.48,0.4792
+Naive Bayes,TF-IDF,0.5822,0.5917,0.5822,0.5832
+Naive Bayes,Word2Vec,0.3991,0.3953,0.3991,0.3948
+SVM,TF-IDF,0.5893,0.5912,0.5893,0.5899
+SVM,Word2Vec,0.472,0.4976,0.472,0.4668
+KNN,TF-IDF,0.4889,0.5358,0.4889,0.4753
+KNN,Word2Vec,0.4062,0.4103,0.4062,0.4039
+Voting,TF-IDF,0.584,0.5865,0.584,0.5848
+Semi- Supervised Voting,TF-IDF,0.6467,0.648,0.6467,0.6467
